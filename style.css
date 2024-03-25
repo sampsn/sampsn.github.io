@@ -1,5 +1,12 @@
 body {
-  background-color: #1c1c1c;
+  background-color: #151515;
+  font-family: "Montserrat", sans-serif;
+  color: #dedede;
+  text-align: center;
+}
+
+.main {
+  margin-top: 50px;
 }
 
 h1 {
@@ -16,6 +23,16 @@ p {
   color: #dedede;
   font-family: "Montserrat", sans-serif;
   font-weight: 200;
-  margin-top: 0px;
-  padding-top: 0px;
+}
+
+h3 {
+  margin-top: 80px;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: #dedede;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
 }
